@@ -2,7 +2,7 @@
  Raseda adalah aplikasi penyewaaan sepeda dimana transaksinya uangnya dilakukan secara offline. namun disediakan tempat pengambilan melalui gps.
 
 ### Screenshot
-<img src="https://raw.githubusercontent.com/LotusOrb/Kampus--Raseda/master/screenshoot/Screenshot_1573662198.png">
+<img src="https://raw.githubusercontent.com/LotusOrb/Kampus--Raseda/master/screenshoot/ssSum.png">
 
 ### Built With
 - Dart
